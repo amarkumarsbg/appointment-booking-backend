@@ -13,7 +13,7 @@ Admin Analytics (Booking and No-show Statistics)
 Setup Instructions
 1. Clone the repository
 Clone this repository to your local machine:
-git clone https://github.com/your-username/appointment-booking-api.git
+git clone https://github.com/amarkumarsbg/appointment-booking-backend.git
 
 2. Install dependencies
 Navigate to the project folder and install the required dependencies:
